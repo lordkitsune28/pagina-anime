@@ -1,0 +1,63 @@
+body{
+    background-color: lavenderblush;
+}
+
+.navB{
+    font-size: 25px;
+    color: rgb(255, 214, 175);
+}
+
+.initR{
+    margin-left: 30%;
+}
+
+.carousel{
+    width: 80%;
+    margin-left: 12%;
+    margin-top: 5px;
+}
+
+.im{
+    width: 75vw;
+    height: 50%;
+    
+}
+
+h5{
+    color: black;
+    font-size: 40px;
+}
+
+.container{
+    margin-top: 20px;
+}
+
+#h5{
+    font-size: 25px;
+    text-align: center;
+}
+
+.img-thumbnail{
+    width: 100%;
+    height: 80vh;
+}
+
+a{
+    text-decoration: none;
+}
+
+.registro{
+    border-radius: 10px;
+}
+
+#mensaje{
+    display: none;
+}
+
+.alert-success{
+    display: block;
+}
+
+.prueb{
+    margin-left: 12%;
+}
